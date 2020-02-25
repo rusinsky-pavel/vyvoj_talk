@@ -124,7 +124,7 @@
 
 - důležité pro každý tým/spolupráci
 
-### Kompletní zadání vs. Barely enough
+### Kompletní zadání vs. Barely enoughgyg
 
 | Kompeletní zadání              | Barely enough                                     |
 |--------------------------------|---------------------------------------------------|
@@ -174,11 +174,38 @@
 
 ## Nabírání vývojářů
 
+- pokud je to možné, věnujte se nějaké IT komunitě => jdete vidět mezi ostatníma
+
 ### Pohovory
+
+- vystavte inzerát a pohovorujte
+  - dejte si pozor na CV, papír snese všechno
+  - vývojáři (hlavně junioři) napíšou do CV, že umí uplně všechno = vypíšou technolgie o kterých slyšeli/jednou viděli ve škole
+- nedejte jen na školu, spousta self-tought vývojářů opravdu umí
+  - škola má výhodu v širším rozhledu v IT (nemusí býr pravda!)
+- pokud pořádně nerozumíte IT, vemte si s sebou někoho kdo IT rozumí
+- ptejte se na věci z oboru, ale i na věci jiné
+  - technicky dobrých programátorů je hodně, ale do týmu/na spolupráci potřebujete někoho "normálního"
+    - s vývojáři je někdy těžké se domluvit => lepší normální člověk, který se naučí
+  - hledejte hlavně "drive" se učit a dělat nové věci!
+- pokud si nejste jistí skillem, zadejte úkol k vypracování
 
 ### Drafting/scouting
 
+- draftovat vývojáře se vyplatí
+  - viz výše, shánějte super lidi do týmu + "drive"
+- nemarněte tím moc času a nemějte to jako hlavní způsob nabírání
+- výhodné pro externí spolupráce = "na doporučení"
+- zkuste pohovorovat/draftovat na školních systémech (př. VUT v Brně to má cool)
+
 ### Agentury
+
+- slibují, že najdou vývojáře
+  - často ale jen možná "shoda" s potřenými znalostmi
+- velmi agilní a drsný trh
+  - scoutují linkedin a facebook extrémně rychle
+  - 10 min po zveřejnění "Hledám práci" na LinkedInu 3 agentury
+- nezpomeňte, že je to drahé
 
 ## Slova, která se naučíte akceptovat
 
