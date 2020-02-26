@@ -126,7 +126,7 @@
 
 ### Kompletní zadání vs. Barely enoughgyg
 
-| Kompeletní zadání              | Barely enough                                     |
+| Kompletní zadání               | Barely enough                                     |
 |--------------------------------|---------------------------------------------------|
 | Vhodné pro externí spolupráci  | Vhodné pro interní tým                            |
 | Opravdu popsat všechno         | Popsat to tak, aby to šlo udělt                   |
@@ -134,7 +134,10 @@
 | Nikdy to není kompletní        | Počítá se s tím, že se něco dodělá potom          |
 | Menší chybovost                | Větší počet neočekávaných/nerozmyšlených věcí     |
 | Vzniká micromanagement         | Vychováváte si spolehlivé vývojáře                |
- 
+
+[Kompletní zadání](https://github.com/rusinsky-pavel/vyvoj_talk/issues/2) vs.
+[Barely enough](https://github.com/rusinsky-pavel/vyvoj_talk/issues/1)
+
 
 ### Jak zadávat
 
@@ -221,5 +224,8 @@ Estimate
 Hot-fix
 Workourd
 Hack
+Produkce
+Fíčr
+Implementační detail
 a spousta dalších....
 
