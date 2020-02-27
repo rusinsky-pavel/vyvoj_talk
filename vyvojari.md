@@ -110,7 +110,7 @@
 - remote
   - viz to předchozí
   - dejte větší důraz na reportování a transparentnost práce
-  - pokud to jde, jednou za čas se výdejte real-life
+  - pokud to jde, jednou za čas se vídejte real-life
 
 ### Externí pracovníci
 
