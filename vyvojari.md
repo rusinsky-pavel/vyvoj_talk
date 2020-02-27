@@ -222,7 +222,7 @@ Refactoring
 Bug
 Estimate
 Hot-fix
-Workourd
+Workaround
 Hack
 Produkce
 Fíčr
