@@ -47,7 +47,7 @@
 #### Tester
 
 - zaměřuje se testování fungování aplikace
-- často není programátoři, ale může být!
+- často není programátor, ale může být!
 - je pro něj důležité, že to fakt jede
 
 #### AI guy
@@ -59,7 +59,7 @@
 #### Co si toho odnést
 
 - je důležité vybrat si správný typ vývojáře na správnou pozici
-  - když chcete nějaký spešl web, není špatné mít full-stack 
+  - když chcete nějaký spešl web, není špatné mít full-stack
   - když potřebujete někoho kdo bude řešit rychlost aplikace, zkuste sehnat DevOps/databázistu
   - atd
 
@@ -124,7 +124,7 @@
 
 - důležité pro každý tým/spolupráci
 
-### Kompletní zadání vs. Barely enoughgyg
+### Kompletní zadání vs. Barely enough
 
 | Kompletní zadání               | Barely enough                                     |
 |--------------------------------|---------------------------------------------------|
@@ -141,7 +141,7 @@
 
 ### Jak zadávat
 
-#### Ústně 
+#### Ústně
 
 - vyhněte se tomu co nejvíc = co není na papíře se neudělá
 - možnost pouze v interním týmu
